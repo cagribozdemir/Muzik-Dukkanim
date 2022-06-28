@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(209, 203, 203);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    color:purple ; 
+    font-size: 40px;
+    
+    text-transform: uppercase; /* Hepsini büyük harf yapma*/ 
+}
+
+h3 {
+    color:rgb(73, 75, 204) ; 
+    font-size: 25px;
+}
+
+h4 {
+    color:purple ; 
+    font-size: 20px;
+}
+
+p {
+    color:black;
+    font-size: 16px;
+    text-align: left;
+}
+
+ul {
+    color: rgb(63, 4, 70);
+    border: 1px;
+} 
+
+.hakkimizda-head{
+    text-align: left;
+}
